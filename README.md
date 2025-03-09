@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Faheem Muhammed
 
-<!--
-**fayeemismail/fayeemismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 GitHub Stats:
+![Faheem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayeemismail&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🔥 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fayeemismail&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fayeemismail&layout=compact&theme=tokyonight)
+
+## 👀 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=fayeemismail&color=blue)
+
+---
+💬 **Let's connect!**  
+🔗 [LinkedIn](https://www.linkedin.com/in/faheemismail) | ✉️ faheemmuhammed703@gmail.com

@@ -18,13 +18,8 @@
 
 ## 🏆 **GitHub Achievements & Stats**
 
-### 📊 **GitHub Stats**
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fayeemismail&theme=dracula&no-bg=true&no-frame=true" /> </div> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fayeemismail&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayeemismail&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayeemismail&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
 
-### 🏅 **Top Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayeemismail&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
 
 ---
 

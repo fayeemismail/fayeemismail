@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,12,14,20&height=200&section=header&text=Faheem%20Muhammed&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20React%20Native%20%7C%20Node.js&descAlignY=55&descSize=14&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,12,14,20&height=200&section=header&text=Faheem%20Muhammed&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20Next.js%20%7C%20Node.js&descAlignY=55&descSize=14&reversal=true" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=550&lines=Building+scalable+MERN+applications;React+Native+%2B+Node.js+enthusiast;Currently+mastering+System+Design;Open+to+Freelance+%26+Remote+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=550&lines=Building+scalable+MERN+applications;Next.js+%2B+Node.js+enthusiast;Currently+mastering+System+Design;Open+to+Freelance+%26+Remote+Roles!" alt="Typing SVG" />
 </a>
 
 <br/>

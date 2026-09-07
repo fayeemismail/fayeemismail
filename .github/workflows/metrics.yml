@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  github-metrics:
+  main-card:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -19,13 +19,31 @@ jobs:
           committer_branch: main
           committer_message: "Update GitHub metrics"
 
-          # --- theme ---
           config_timezone: Asia/Kolkata
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          config_display: compact
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          plugin_lines: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
-          plugin_lines: yes
-          plugin_languages: no
-          base: header, activity
+
+  isocalendar-card:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: fayeemismail
+          filename: github-calendar.svg
+          committer_branch: main
+          committer_message: "Update GitHub isometric calendar"
+
+          config_timezone: Asia/Kolkata
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

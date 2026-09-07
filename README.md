@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Faheem%20Muhammed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20React%20Native%20%7C%20Node.js&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Faheem%20Muhammed&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20React%20Native%20%7C%20Node.js&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+scalable+MERN+applications;React+Native+%2B+Node.js+enthusiast;Currently+mastering+System+Design;Open+to+Freelance+%26+Remote+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+scalable+MERN+applications;React+Native+%2B+Node.js+enthusiast;Currently+mastering+System+Design;Open+to+Freelance+%26+Remote+Roles!" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=fayeemismail&color=0e75b6&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/fayeemismail?label=Followers&style=for-the-badge&color=06B6D4&logo=github" alt="GitHub Followers" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/fayeemismail/fayeemismail/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
@@ -32,12 +36,12 @@ contact: faheemmuhammed703@gmail.com
 ## 🏆 GitHub Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fayeemismail&theme=algolia&no-bg=true&no-frame=true&margin-w=8&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fayeemismail&theme=onedark&no-bg=true&no-frame=true&margin-w=8&row=1&column=7" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fayeemismail&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=6366F1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayeemismail&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fayeemismail&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=6366F1&rank_icon=github" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=fayeemismail&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" width="48%" />
 </p>
 
 <p align="center">
@@ -47,6 +51,8 @@ contact: faheemmuhammed703@gmail.com
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fayeemismail&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=6366F1&point=ffffff" width="100%"/>
 </div>
+
+> 💡 If a card above ever shows a broken-image icon, it's almost always that free service being temporarily rate-limited or asleep — reloading the page or waiting a minute fixes it. It's not something wrong with your markdown.
 
 <br/>
 

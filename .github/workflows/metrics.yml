@@ -27,20 +27,4 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_lines: yes
 
-  isocalendar-card:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: fayeemismail
-          filename: github-calendar.svg
-          committer_branch: main
-          committer_message: "Update GitHub isometric calendar"
-
-          config_timezone: Asia/Kolkata
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+  

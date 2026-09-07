@@ -45,9 +45,7 @@ contact: faheemmuhammed703@gmail.com
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fayeemismail/fayeemismail/main/github-calendar.svg" alt="Isometric contribution calendar" width="60%"/>
-</div>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=fayeemismail&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" width="38%" />
